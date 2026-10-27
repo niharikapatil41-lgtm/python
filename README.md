@@ -18,7 +18,7 @@ n=[1,2,3]
 t=n.copy()
 print("n",n)
 print("t",t)
-#Append 
+#Append() 
 j=["sunflower","lilly","Rose"]
 j.append("lotus")
 print(j)
