@@ -10,7 +10,7 @@ del b
 #iteration part
 num=[3]*4
 print(num)
-#2
+#2 
 s=("guave","orange","mango")
 print(s*2)
 #copy item
